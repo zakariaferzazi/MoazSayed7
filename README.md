@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moaz Sayed</h1>
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
+<h3 align="center">Flutter Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bharathkalyans/bharathkalyans/278b30fb4be35ffe788b23cc907c92842bd78379/images/header%20image.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moazsayed7&label=Profile%20views&color=0e75b6&style=flat" alt="moazsayed7" /> </p>

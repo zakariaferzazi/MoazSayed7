@@ -5,7 +5,11 @@
 <h3 align="center">Flutter Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bharathkalyans/bharathkalyans/278b30fb4be35ffe788b23cc907c92842bd78379/images/header%20image.svg">
+
+[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moazsayed7&label=Profile%20views&color=0e75b6&style=flat" alt="moazsayed7" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/moazr77" target="blank"><img src="https://img.shields.io/twitter/follow/moazr77?logo=twitter&style=for-the-badge" alt="moazr77" /></a> </p>
 

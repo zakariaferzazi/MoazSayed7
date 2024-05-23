@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moazsayed7&label=Profile%20views&color=0e75b6&style=flat" alt="moazsayed7" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/moazr77" target="blank"><img src="https://img.shields.io/twitter/follow/moazr77?logo=twitter&style=for-the-badge" alt="moazr77" /></a> </p>
+<p align="left"> <a href="https://instagram.com/zakaria_0.75" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="zakaria_0.75" /></a> </p>
 
 - 💬 Ask me about **Flutter**
 
